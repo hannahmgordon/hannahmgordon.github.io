@@ -15,7 +15,7 @@ My name is Hanah Gordon, and I am currently a rising senior studying Financial E
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify risks](report/report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
