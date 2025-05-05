@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---  
 ## About Me
 
 
