@@ -18,11 +18,18 @@ My name is Hanah Gordon, and I am currently a rising senior studying Financial E
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](report/report.md)**_
+_**[Sentiment in 10-K Filings and Stock Returns: A Textual Analysis of the S&P 500](report/report.md)**_
 
 This project examines the relationship between sentiment in 10-K filings and stock returns around the publication date. I constructed three sentiment dictionaries focused on employees, innovation, and reputation which I measured alongside an existing dictionary of positive and negative words. Using a sample of S&P 500 firms, I extracted and cleaned text from 10-K reports, computed 10 sentiment scores, and analyzed their correlation with stock returns. The report above describes and analyzes my findings.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<a href="report/report.md">
+  <img src="pics/midterm_project?raw=true" alt="10-Ks Project Thumbnail" />
+</a>
+
+<p>This project examines the relationship between sentiment in 10-K filings and stock returns...</p>
+
 
 ---
 
