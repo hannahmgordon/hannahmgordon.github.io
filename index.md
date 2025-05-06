@@ -67,7 +67,7 @@ My name is Hanah Gordon, and I am currently a rising senior studying Financial E
  
 
 <div class="card">
-  <h3><a href="report/report.html">Regression Practice</a></h3>
+  <h3><a href="[The Predictive Power of 10-K Similarity on Future Returns](https://lazypricesreplication.streamlit.app/)">Regression Practice</a></h3>
   <p>Or: The process that created this page can be used to show off your whole midterm analysis file, as is.</p>
 </div>
 
