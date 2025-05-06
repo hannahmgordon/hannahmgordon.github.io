@@ -5,9 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="pdf/Current Resume Hannah Gordon (1).pdf" class="btn btn--info">Resume</a>  
   <br>
-  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
+  <a href="https://github.com/hannahmgordon">GitHub</a>  
 
   
 theme: jekyll-theme-minimal
