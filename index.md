@@ -1,6 +1,13 @@
 ---
 layout: wide_default
----  
+---
+
+<style>
+  body {
+    background-color: #f8f8f8; /* Off-white */
+  }
+</style>
+
 ## About Me
 
 
