@@ -64,15 +64,20 @@ My name is Hanah Gordon, and I am currently a rising senior studying Financial E
 <div class="card">
   <h3><a href="report/report.html">Sentiment in 10-K Filings and Stock Returns: A Textual Analysis of the S&P 500</a></h3>
   <p>This project examines the relationship between sentiment in 10-K filings and stock returns around the publication date. I constructed three sentiment dictionaries focused on employees, innovation, and reputation, and measured them alongside an existing dictionary of positive and negative words. I then analyzed their correlation with returns using data from the S&P 500.</p>
- 
+  <a href="report/report.html">
+    <img src="pics/midterm.png" alt="10-Ks Project Thumbnail" />
+  </a>
+</div>
 
 <div class="card">
-  <h3><a href="[The Predictive Power of 10-K Similarity on Future Returns](https://lazypricesreplication.streamlit.app/)">Regression Practice</a></h3>
+  <h3><a href="[The Predictive Power of 10-K Similarity on Future Returns](https://lazypricesreplication.streamlit.app/)">The Predictive Power of 10-K Similarity on Future Returns</a></h3>
   <p>Or: The process that created this page can be used to show off your whole midterm analysis file, as is.</p>
+  <img src="images/dummy_thumbnail.jpg" alt="Regression Project" />
 </div>
 
 <div class="card">
   <h3><a href="https://donbowen.github.io/teamproject/">Eventual Team Project</a></h3>
+  <img src="images/dummy_thumbnail.jpg" alt="Team Project Thumbnail" />
 </div>
 
 <div class="card">
