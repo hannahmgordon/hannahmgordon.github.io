@@ -25,7 +25,7 @@ This project examines the relationship between sentiment in 10-K filings and sto
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-<a href="[report/report.md](https://github.com/hannahmgordon/hannahmgordon.github.io/blob/dc18078bb6d0d346d3cde724430a51a294e8c131/report/report.md)">
+<a href="reprt/report.md">
   <img src="pics/midterm.png?raw=true" alt="10-Ks Project Thumbnail" />
 </a>
 
