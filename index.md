@@ -4,7 +4,7 @@ layout: wide_default
 
 <style>
   body {
-    background-color: #f8f8f8; /* Off-white */
+    background-color: #F8F0E3; /* Off-white */
   }
 </style>
 
