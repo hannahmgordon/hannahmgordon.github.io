@@ -64,9 +64,7 @@ My name is Hanah Gordon, and I am currently a rising senior studying Financial E
 <div class="card">
   <h3><a href="report/report.html">Sentiment in 10-K Filings and Stock Returns: A Textual Analysis of the S&P 500</a></h3>
   <p>This project examines the relationship between sentiment in 10-K filings and stock returns around the publication date. I constructed three sentiment dictionaries focused on employees, innovation, and reputation, and measured them alongside an existing dictionary of positive and negative words. I then analyzed their correlation with returns using data from the S&P 500.</p>
-  <a href="report/report.html">
-    <img src="pics/midterm.png" alt="10-Ks Project Thumbnail" />
-  </a>
+
 </div>
 
 <div class="card">
