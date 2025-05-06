@@ -1,6 +1,62 @@
 ---
 layout: wide_default
----  
+---
+
+<style>
+  body {
+    background-color: #fbf7f3;
+    font-family: 'Lato', sans-serif;
+  }
+
+  h2, h3 {
+    font-family: 'Playfair Display', serif;
+  }
+
+ a {
+  color: #000080;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, .card h3, .sidebar a {
+  color: #1a1a2e !important;
+}
+
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .card {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+    margin-bottom: 2rem;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+
+  img:hover {
+    opacity: 0.95;
+    transform: scale(1.01);
+  }
+
+  hr {
+    border-top: 1px solid #ccc;
+    margin: 2rem 0;
+  }
+</style>
+
 # Assignment 5 Report
 
 ## Summary 
