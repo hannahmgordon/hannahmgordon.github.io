@@ -4,7 +4,7 @@ layout: wide_default
 
 <style>
   body {
-    background-color: #eeece6;
+    background-color: #f5f5f5;
     font-family: 'Lato', sans-serif;
   }
 
