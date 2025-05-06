@@ -81,15 +81,6 @@ My name is Hanah Gordon, and I am currently a rising senior studying Financial E
   <p>This dashboard explores the relationship between changes in the language of 10-K filings year over year and subsequent stock returns. We have created various visualizations of our data to help our users understand this relationship and a report to explain our findings.</p>
 </div>
 
-<div class="card">
-  <h3><a href="https://donbowen.github.io/teamproject/">Eventual Team Project</a></h3>
-  <img src="images/dummy_thumbnail.jpg" alt="Team Project Thumbnail" />
-</div>
-
-<div class="card">
-  <h3><a href="/pdf/sample_presentation.pdf">Some Personal Project</a></h3>
-  <img src="images/dummy_thumbnail.jpg" alt="Sample Presentation Thumbnail" />
-</div>
 
 ---
 
