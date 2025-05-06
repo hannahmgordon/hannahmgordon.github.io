@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---  
 ## About Me
 
 
@@ -15,15 +18,22 @@ My name is Hanah Gordon, and I am currently a rising senior studying Financial E
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Sentiment in 10-K Filings and Stock Returns: A Textual Analysis of the S&P 500](report/report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+This project examines the relationship between sentiment in 10-K filings and stock returns around the publication date. I constructed three sentiment dictionaries focused on employees, innovation, and reputation which I measured alongside an existing dictionary of positive and negative words. Using a sample of S&P 500 firms, I extracted and cleaned text from 10-K reports, computed 10 sentiment scores, and analyzed their correlation with stock returns. The report above describes and analyzes my findings.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+<a href="report/report.md">
+  <img src="pics/midterm_project?raw=true" alt="10-Ks Project Thumbnail" />
+</a>
+
+<p>This project examines the relationship between sentiment in 10-K filings and stock returns...</p>
+
+
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](report/report.md)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
