@@ -13,7 +13,7 @@ layout: wide_default
   }
 
  a {
-  color: #000080;
+  color: #3e3b79;
   font-weight: bold;
   text-decoration: none;
 }
