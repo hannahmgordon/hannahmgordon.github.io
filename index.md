@@ -25,7 +25,7 @@ This project examines the relationship between sentiment in 10-K filings and sto
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-<a href="report/report.html">
+<a href="report/report.md">
   <img src="pics/midterm.png?raw=true" alt="10-Ks Project Thumbnail" />
 </a>
 
