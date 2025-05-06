@@ -12,11 +12,20 @@ layout: wide_default
     font-family: 'Playfair Display', serif;
   }
 
-  a {
-    color: #2E86AB;
-    font-weight: bold;
-    text-decoration: none;
-  }
+ a {
+  color: #1a1a2e;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, .card h3, .sidebar a {
+  color: #1a1a2e !important;
+}
+
 
   a:hover {
     text-decoration: underline;
