@@ -24,11 +24,13 @@ This project examines the relationship between sentiment in 10-K filings and sto
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 <a href="report/report.md">
   <img src="pics/midterm.png?raw=true" alt="10-Ks Project Thumbnail" />
 </a>
 
-<p>This project examines the relationship between sentiment in 10-K filings and stock returns...</p>
+<p>This project examines the relationship between sentiment in 10-K filings and stock returns around the publication date. I constructed three sentiment dictionaries focused on employees, innovation, and reputation which I measured alongside an existing dictionary of positive and negative words. Using a sample of S&P 500 firms, I extracted and cleaned text from 10-K reports, computed 10 sentiment scores, and analyzed their correlation with stock returns. The report above describes and analyzes my findings.
+</p>
 
 
 ---
