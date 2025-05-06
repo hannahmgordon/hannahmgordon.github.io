@@ -25,7 +25,7 @@ This project examines the relationship between sentiment in 10-K filings and sto
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <a href="report/report.md">
-  <img src="pics/midterm_project?raw=true" alt="10-Ks Project Thumbnail" />
+  <img src="pics/midterm_project.png?raw=true" alt="10-Ks Project Thumbnail" />
 </a>
 
 <p>This project examines the relationship between sentiment in 10-K filings and stock returns...</p>
