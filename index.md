@@ -83,22 +83,20 @@ My name is Hanah Gordon, and I am currently a rising senior studying Financial E
 
 <div class="card">
   <h3><a href="pics/Poster.pdf">IBE Workshop Entrepreneurship Final Project</a></h3>
-  <p>In my IBE workshop class my group and I were tasked with creating a product that solved a real-world problem. We did extensive market research, speaking to parents, pediatricians, and patients, in order to develop a realistic and desirable product solution. At the end of the semester we presented our product, Booster Buddy, in an hour long presentation to parents and professors and achieved second place. </p>
+  <p>In the IBE Workshop course my group and I were tasked with creating a product that solved a real-world problem. We did extensive market research, speaking to parents, pediatricians, and patients, in order to develop a realistic and desirable product solution. At the end of the semester we presented our product, Booster Buddy, in an hour long presentation competition to parents and professors and achieved second place. The process that this project followed was a miniature version of my IBE Senior Capstone, which I am currently working on and excited to showcase! </p>
 </div>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I am interested in pursuing a career in finance that allows me to utilize my quantitative, financial, and interpersonal skills. My IBE education coupled with the various leadership roles I have held during my time at Lehigh has given me a well-rounded skill set and shown me how fullfilling it can be to bring my various skills together for one objective. Additionally, I have an affinity for entrepreneurship, which I hope to pursue this further one day. During the summer of 2025, I will be working at PwC as a Financial Transformations Consulting Intern in NYC. I am excited to explore this career path and possibly others on my journey toward finding where my skill set can be best utilized!
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+My hobbies bring me a lot of fulfillment outside of my academics. I love playing tennis and am on the Lehigh Club Tennis Team. I also enjoy crafts of all sorts but spend the most time sewing, crocheting, and working on DIY projects. A few of my other favorite ways to spend my time include traveling, Jewish involvement and education, spending time with family and friends, and going for walks. 
 
 ---
 
