@@ -91,7 +91,7 @@ My name is Hanah Gordon, and I am currently a rising senior studying Financial E
 
 ## Career Objectives
 
-I am interested in pursuing a career in finance that allows me to utilize my quantitative, financial, and interpersonal skills. My IBE education coupled with the various leadership roles I have held during my time at Lehigh has given me a well-rounded skill set and shown me how fullfilling it can be to bring my various skills together for one objective. Additionally, I have an affinity for entrepreneurship, which I hope to pursue this further one day. During the summer of 2025, I will be working at PwC as a Financial Transformations Consulting Intern in NYC. I am excited to explore this career path and possibly others on my journey toward finding where my skill set can be best utilized!
+I am interested in pursuing a career in finance that allows me to utilize my quantitative, financial, and interpersonal skills. My IBE education coupled with the various leadership roles I have held during my time at Lehigh has given me a well-rounded skill set and shown me how fullfilling it can be to bring my various skills together for one objective. Additionally, I have an affinity for entrepreneurship, which I hope to pursue further one day. During the summer of 2025, I will be working at PwC as a Financial Transformations Consulting Intern in NYC. I am excited to explore this career path and possibly others on my journey toward finding where my skill set can be best utilized!
 
 ---
 
