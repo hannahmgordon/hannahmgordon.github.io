@@ -83,7 +83,7 @@ My name is Hanah Gordon, and I am currently a rising senior studying Financial E
 </div>
 
 <div class="card">
-  <h3><a href="pics/Poster.pdf">IBE Workshop Entrepreneurship Final Project</a></h3>
+  <h3><a href="pics/Poster.pdf" target="_blank">IBE Workshop Entrepreneurship Final Project</a></h3>
   <p>In the IBE Workshop course my group and I were tasked with creating a product that solved a real-world problem. We did extensive market research, speaking to parents, pediatricians, and patients, in order to develop a realistic and desirable product solution. At the end of the semester we presented our product, Booster Buddy, in an hour long presentation competition to parents and professors and achieved second place. The process that this project followed was a miniature version of my IBE Senior Capstone, which I am currently working on and excited to showcase! </p>
 </div>
 
