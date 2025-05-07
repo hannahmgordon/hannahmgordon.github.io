@@ -31,13 +31,14 @@ h1, h2, h3, .card h3, .sidebar a {
     text-decoration: underline;
   }
 
-  .card {
-    background-color: white;
-    padding: 1.5rem;
-    border-radius: 10px;
-    box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
-    margin-bottom: 2rem;
-  }
+ .card {
+  background-color: white;
+  padding: 1.25rem 1.5rem 1rem 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+  margin-bottom: 1rem;
+}
+
 
   img {
     max-width: 100%;
