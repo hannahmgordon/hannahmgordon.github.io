@@ -79,7 +79,7 @@ My name is Hanah Gordon, and I am currently a rising senior studying Financial E
 
 <div class="card">
   <h3><a href="https://lazypricesreplication.streamlit.app/" target="_blank">The Predictive Power of 10-K Similarity on Future Returns</a></h3>
-  <p>This dashboard explores the relationship between changes in the language of 10-K filings year over year and subsequent stock returns. We have created various visualizations of our data to help our users understand this relationship and a report to explain our findings.</p>
+  <p>This dashboard explores the relationship between changes in the language of 10-K filings year-over-year and subsequent stock returns. I worked in a group of four to create various interactive visualizations of our data and write a report to explain our findings and help our users understand the relationship between 10-K changes and stock returns.</p>
 </div>
 
 <div class="card">
