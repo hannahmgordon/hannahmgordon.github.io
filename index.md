@@ -60,7 +60,7 @@ h1, h2, h3, .card h3, .sidebar a {
 
 ## About Me
 
-My name is Hanah Gordon, and I am currently a rising senior studying Financial Engineering in Lehigh University's IBE Honors Program. The purpose of this website is to showcase coding work I have done on my own and in classes, particularly FIN377 (Applied Data Analytics for Finance in Python).
+My name is Hanah Gordon, and I am currently a rising senior studying Financial Engineering in Lehigh University's IBE Honors Program. The purpose of this website is to help you learn a little bit about me, my career objectives, my hobbies, and to showcase projects that I have done on my own and in classes, particularly FIN377 (Applied Data Analytics for Finance in Python) and IBE050 (IBE Workshop). 
 
 <!-- Upload your own photo and change the path -->
 <p style="text-align:center;">
