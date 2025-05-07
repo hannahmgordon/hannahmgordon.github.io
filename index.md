@@ -102,9 +102,8 @@ My hobbies bring me a lot of fulfillment outside of my academics. I love playing
 ---
 
 ## Contact Information
-
-School Email (checked more frequently): hmg226@lehigh.edu
-Personal Email: Hannahmgordon@icloud.com
+School Email (checked more frequently): hmg226@lehigh.edu <br>
+Personal Email: Hannahmgordon@icloud.com<br>
 Phone Number: (908) 472-5773
 
 ---
