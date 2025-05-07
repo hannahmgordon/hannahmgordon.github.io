@@ -13,7 +13,7 @@ layout: wide_default
   }
 
  a {
-  color: #000080;
+  color: #62768a;
   font-weight: bold;
   text-decoration: none;
 }
@@ -58,7 +58,7 @@ h1, h2, h3, .card h3, .sidebar a {
 </style>
 
 # Assignment 5 Report
-## <h2>View the full project repository <a href="https://github.com/LeDataSciFi/asgn-05-hannahmgordon" target="_blank" rel="noopener noreferrer">here</a></h2>
+## View the full project repository <a href="https://github.com/LeDataSciFi/asgn-05-hannahmgordon" target="_blank" rel="noopener noreferrer">here</a>
 ## Summary 
 
 This project examines the relationship between sentiment in 10-K filings and stock returns around the publication date. I constructed three sentiment dictionaries focused on employees, innovation, and reputation which I measured alongside an existing dictionary of positive and negative words. Using a sample of S&P 500 firms, I extracted and cleaned text from 10-K reports, computed 10 sentiment scores, and analyzed their correlation with stock returns. The report below describes and analyzes my findings. 
