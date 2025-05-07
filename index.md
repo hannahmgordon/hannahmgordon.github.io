@@ -101,4 +101,12 @@ My hobbies bring me a lot of fulfillment outside of my academics. I love playing
 
 ---
 
+## Contact Information
+
+School Email (checked more frequently): hmg226@lehigh.edu
+Personal Email: Hannahmgordon@icloud.com
+Phone Number: (908) 472-5773
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
